@@ -1,0 +1,14 @@
+C:\Users\OMEN\source\repos\HomeWork6_Methods\HomeWork6_Methods\obj\Debug\netcoreapp3.1\HomeWork6_Methods.csproj.AssemblyReference.cache
+C:\Users\OMEN\source\repos\HomeWork6_Methods\HomeWork6_Methods\obj\Debug\netcoreapp3.1\HomeWork6_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\source\repos\HomeWork6_Methods\HomeWork6_Methods\obj\Debug\netcoreapp3.1\HomeWork6_Methods.AssemblyInfoInputs.cache
+C:\Users\OMEN\source\repos\HomeWork6_Methods\HomeWork6_Methods\obj\Debug\netcoreapp3.1\HomeWork6_Methods.AssemblyInfo.cs
+C:\Users\OMEN\source\repos\HomeWork6_Methods\HomeWork6_Methods\obj\Debug\netcoreapp3.1\HomeWork6_Methods.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\source\repos\HomeWork6_Methods\HomeWork6_Methods\bin\Debug\netcoreapp3.1\HomeWork6_Methods.exe
+C:\Users\OMEN\source\repos\HomeWork6_Methods\HomeWork6_Methods\bin\Debug\netcoreapp3.1\HomeWork6_Methods.deps.json
+C:\Users\OMEN\source\repos\HomeWork6_Methods\HomeWork6_Methods\bin\Debug\netcoreapp3.1\HomeWork6_Methods.runtimeconfig.json
+C:\Users\OMEN\source\repos\HomeWork6_Methods\HomeWork6_Methods\bin\Debug\netcoreapp3.1\HomeWork6_Methods.runtimeconfig.dev.json
+C:\Users\OMEN\source\repos\HomeWork6_Methods\HomeWork6_Methods\bin\Debug\netcoreapp3.1\HomeWork6_Methods.dll
+C:\Users\OMEN\source\repos\HomeWork6_Methods\HomeWork6_Methods\bin\Debug\netcoreapp3.1\HomeWork6_Methods.pdb
+C:\Users\OMEN\source\repos\HomeWork6_Methods\HomeWork6_Methods\obj\Debug\netcoreapp3.1\HomeWork6_Methods.dll
+C:\Users\OMEN\source\repos\HomeWork6_Methods\HomeWork6_Methods\obj\Debug\netcoreapp3.1\HomeWork6_Methods.pdb
+C:\Users\OMEN\source\repos\HomeWork6_Methods\HomeWork6_Methods\obj\Debug\netcoreapp3.1\HomeWork6_Methods.genruntimeconfig.cache
